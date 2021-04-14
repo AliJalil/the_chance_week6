@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">the_chance_week6</string>
+    <string name="hello_again_login_to_get_started">Hello Again, login to get started</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+</resources>
